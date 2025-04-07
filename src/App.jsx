@@ -55,7 +55,7 @@ function App () {
   }
 
   const updateBoard = (index) => {
-    if(board[index]) return
+    if(board[index] || winner) return
     // Update board
     const newBoard = [...board]
     newBoard[index] = turn
