@@ -1,4 +1,4 @@
-#🎮 Tic Tac Toe - Tic Tac Toe Game with React
+<h1>🎮 Tic Tac Toe - Tic Tac Toe Game with React</h1>
 This project is an implementation of the classic Tic Tac Toe game developed with React. It was built with the goal of practicing fundamental React concepts such as state management, reusable components, events, and conditional rendering.
 
 🚀 Features
