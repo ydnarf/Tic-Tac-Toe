@@ -20,4 +20,6 @@ HTML5 & CSS3
 
 JavaScript (ES6+)
 
-Vite / Create React App (depending on configuration)
+Vite / Create React App (depending on configuration)<br>
+
+👉 [Probar el juego aquí](https://effulgent-alpaca-55844e.netlify.app/)
