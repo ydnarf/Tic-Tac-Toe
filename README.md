@@ -22,4 +22,4 @@ JavaScript (ES6+)
 
 Vite / Create React App (depending on configuration)<br>
 
-👉 [Probar la app aquí](https://celebrated-unicorn-1c6275.netlify.app/)
+👉 [Try the game here](https://effulgent-alpaca-55844e.netlify.app/)
